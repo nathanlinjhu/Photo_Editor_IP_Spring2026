@@ -19,3 +19,5 @@
 | 17 | Full program testing | 1 | All implementation | All | Mar 13 | Completed |
 | 18 | Command-line validation | 1 | N/A | All | Mar 13 | Completed |
 | 19 | Grayscale helper functions | 1 | N/A | All | Mar 4 | Completed |
+
+Collaborated with Simon Yu on Intermediate Midterm Project
