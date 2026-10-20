@@ -2,11 +2,11 @@ README FILE
 
 Simon Yu & Nathan Lin
 
-task name	difficulty	dependencies	                            owner	        due date	        status
+task name	difficulty	dependencies	                            owner	        due date	                status
 
 Makefile     1/10       Everything                                  syu99           3/13                complete
 
-project.c    3/10       Everything                                  both            3/13
+project.c    3/10       Everything                                  both            3/13                complete
 
 ppm_io.c     3/10       write make free ppm                         both            3/4                 complete
 
@@ -34,10 +34,10 @@ pointilism   5/10       ppm_io.c                                    nlin18      
 
 blur         4/10       ppm_io.c                                    syu99           3/12                complete
 
-Error reporting 2/10    none                                        both            3/13
+Error reporting 2/10    none                                        both            3/13                complete
 
-Pure Testing  1/10      none                                        both            3/13
+Pure Testing  1/10      none                                        both            3/13                complete
 
-Command Line Validation 1/10  none                                  both            3/13
+Command Line Validation 1/10  none                                  both            3/13               complete
 
 Implement grayscale helper functions 2/10     none                  both            3/4                 complete
