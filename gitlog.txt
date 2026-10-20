@@ -1,0 +1,564 @@
+commit 3d413532bb08dddf7d527da2f1587674eb7f3796
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Wed Mar 25 13:44:18 2026 -0400
+
+    Memory leakage issues resolved
+
+commit 1f36a4a43d4df768f0f267fa37929bfe2a30f00b
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 24 14:03:27 2026 -0400
+
+    Prepared to export to zip file
+
+commit c5cde4adf535bbe4fc745a24fec2246a405159df
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 24 14:01:46 2026 -0400
+
+    Debugging and fixing errors
+
+commit 0c9c56aa53c5469211ad2980ef39725633d3208b
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Mon Mar 23 22:55:47 2026 -0400
+
+    Final edits (hopefully)
+
+commit dd945eeafd638f68b69821f571562b7595e3e759
+Merge: f7e6a9d 63a31d2
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Mon Mar 23 22:46:48 2026 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 63a31d21e89de66111479fab788e084b8942a8ac
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Mon Mar 23 17:44:54 2026 -0400
+
+    editied pointilism
+
+commit f7e6a9da2c6ec1d33f64ae594f671fb6266837b0
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Mon Mar 23 14:46:40 2026 -0400
+
+    Tested pointilism again
+
+commit e4d6511cd412ce096dfbbfa8742c71b81ecd784a
+Merge: 11f229d 4e7c314
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Mon Mar 23 14:41:01 2026 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 4e7c31470826dd3d334aabf03428b1cebd16f810
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Mon Mar 23 14:39:15 2026 -0400
+
+    edit to point
+
+commit 11f229d46394af66c1b0c1ddaef83529e0a58127
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Mar 20 22:49:28 2026 -0400
+
+    Fixed some syntax errors; debugging
+
+commit 798bb7557ae74ca198ed3281250a93571ae9e6ac
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Mar 20 19:38:49 2026 -0400
+
+    Finished project.c
+
+commit db0b916373b4473cb1280d692e4c056c8c45d7e2
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Mar 20 19:14:24 2026 -0400
+
+    Continued adding to project.c
+
+commit 10d4bbbd8504941eb580f9d7d88cb1fc33f16f84
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Mar 13 14:26:27 2026 -0400
+
+    edits to main
+
+commit c28be7cb634af66fbbb28bf5df3aa97f138fbe38
+Merge: 6fa83de 471b1b4
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Mar 13 14:25:33 2026 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 471b1b4facfb0ac402475048337da40e4977517c
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Mar 13 14:24:48 2026 -0400
+
+    Made edits to main
+
+commit 6fa83de10d6f0f9161ce5c34a80da9ed78becdb1
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Mar 13 14:00:58 2026 -0400
+
+    readme updates
+
+commit eb4b83ff3b548ee0da07f4f7a1b48f9ed690964c
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Mar 13 13:37:30 2026 -0400
+
+    Fixed some syntax
+
+commit 133328efcb4eefd6ffc05abf0fc66456331ae6b1
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Mar 13 01:39:49 2026 -0400
+
+    update to README
+
+commit eb102802f6d31ce34d32ce9662f3aef2819ae9ca
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Mar 13 01:39:06 2026 -0400
+
+    completed main.c
+
+commit df73e4fa6b6eda3a1b89988373247254b966a409
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Thu Mar 12 16:25:44 2026 -0400
+
+    fixed a syntax error in image_manip.c
+
+commit d03e33061496335b61cf3c22de4a46f7d352f993
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Thu Mar 12 16:23:44 2026 -0400
+
+    Rearranged all the functions in the order they appear in and updated README to reflect project progress
+
+commit 3f5c5e7257cc65a589c47192da46437e9031a059
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Thu Mar 12 16:21:23 2026 -0400
+
+    Finished writing the blur function
+
+commit 940a4f448f36f512e8605689ea3282fc7c294b93
+Merge: 66b5c6e 623416a
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Thu Mar 12 14:51:36 2026 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 66b5c6ec205e928cee898c8739b7d51794b852be
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Thu Mar 12 14:51:01 2026 -0400
+
+    Progress on blur image: made one helper function for the Gaussian distribution, made decent progress to blur a singular pixel
+
+commit 623416a19ad36966ce0d32cad1a0011ee5ddd36e
+Merge: 58ad858 beeff42
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Thu Mar 12 12:48:38 2026 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 58ad858d363f16fac663854ec56df8e76d1e99df
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Thu Mar 12 12:48:34 2026 -0400
+
+    added comments to pointilism
+
+commit beeff42a6da5a8a464683fe826283665411dbc6f
+Merge: a1e0350 30ee38f
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Thu Mar 12 12:40:51 2026 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit a1e0350bf7c75b251639ac1d5f0557c49318fdf3
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Thu Mar 12 12:40:39 2026 -0400
+
+    Finished the crop function
+
+commit 30ee38fec322b25f28243ac661afa06d4861211c
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Thu Mar 12 12:35:46 2026 -0400
+
+    update to README
+
+commit 9d08ec72653661b461f3e494e6566bb8f265fa4b
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Thu Mar 12 12:34:46 2026 -0400
+
+    completed pointilisim
+
+commit 84ed6c0dab2f65fee6cbc8da1810369b73514926
+Merge: dbfdbb9 5c5c891
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Mar 6 14:47:37 2026 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit dbfdbb9af94857f9cb301f2df8bfd6e060d4a531
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Mar 6 14:47:34 2026 -0500
+
+    point function
+
+commit 5c5c891a6e1a8c447528506bd5bf498146ae4cf6
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Mar 6 14:36:43 2026 -0500
+
+    First rendition of the crop function
+
+commit bbaa466de43e98704bdaeb035b6fb89487737e77
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Mar 6 14:22:37 2026 -0500
+
+    Made changes (and hopefully finished) the blending function
+
+commit 64a11e57a64043306e6af525a277c5bcb0d76cbe
+Merge: 337da9b bee27ac
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Wed Mar 4 14:40:48 2026 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 337da9b494ac0914102450119fe9b51679822b41
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Wed Mar 4 14:40:36 2026 -0500
+
+    started pointilism
+
+commit bee27ac5d9bd0d7b2b190ff86d45e8aebabbca5f
+Merge: fa32fbc 7210e05
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Wed Mar 4 14:40:24 2026 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit fa32fbcf69965d357344419582a67d6187d4e826
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Wed Mar 4 14:40:06 2026 -0500
+
+    Made edits to blend_image, still needs a lot of work
+
+commit 7210e0541ac46e2ed9beac736b4b31e3797c721a
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Wed Mar 4 13:59:14 2026 -0500
+
+    added commetns to rotate
+
+commit efff362eb308abad12dbbdab93b8c9068ea68cfe
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Wed Mar 4 13:49:41 2026 -0500
+
+    Fixed a syntax error in rotate_ccw
+
+commit 4f563d2c9f6448b900148a651163585e62f35df1
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Wed Mar 4 01:02:16 2026 -0500
+
+    edits to README and rotate
+
+commit 34b314f9c9ff9f8e15c1209592c122beaa9217bc
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Wed Mar 4 00:39:37 2026 -0500
+
+    updates to README
+
+commit ebe62dc9f1f5d39713e2a5f509a97dda98a21c03
+Merge: 99a560f f4166b1
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 15:49:42 2026 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 99a560f389d7af39dd70c7dd87ccf57be264620a
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 15:48:08 2026 -0500
+
+    update on rotate
+
+commit f4166b1f2083344146cfc8ac5d53cf7b7d1c0fe0
+Merge: 4eaef7b 65421c6
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 3 15:46:14 2026 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 4eaef7beeb78e3a3bf8004bf7b490a6aecadcce0
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 3 15:45:50 2026 -0500
+
+    I made a helper function for blend_image and completed significant progress for it
+
+commit 65421c615f1e8f2151e9ea8ed7bf079d21e2341d
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 15:17:18 2026 -0500
+
+    grayscale
+
+commit 7a233a575a81b4a031548fbf44083fa0d45da52e
+Merge: f948aa1 5cc24c3
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 15:08:46 2026 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit f948aa1704ce94b2903411aada56bcfbde0703e1
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 15:08:29 2026 -0500
+
+    edit to grayscale
+
+commit 5cc24c392292f0da238fb768ebe9b70ed7ad6454
+Merge: 51467a3 2965716
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 3 15:07:43 2026 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 51467a341ca0bc9c6a1dc4b8a891fb295c21c5e8
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 3 15:07:14 2026 -0500
+
+    I implemented the helper function pixel_to_gray in image_manip.c
+
+commit 2965716d77f363e44fb5166139d14004783898ff
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 14:50:39 2026 -0500
+
+    update README
+
+commit 65e2a72573a022e0da7845c8a73ef4739b5ae7ae
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 14:48:00 2026 -0500
+
+    update to README file
+
+commit 291dee629ea81b6b1fca4263bdb216b87dcf67ce
+Merge: 35d88de 106e0a0
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 3 14:45:22 2026 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 35d88deb06820bb7ad496f04892c3b819fb27811
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 3 14:43:39 2026 -0500
+
+    Doing this to get Nathan's changes
+
+commit 106e0a05e98b2591aba25dd064e0bcf843aa6d65
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 14:42:52 2026 -0500
+
+    write_ppm
+
+commit 08ee2e4bd039a56d4b60cb60d0e8d215306ff7fd
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 14:25:41 2026 -0500
+
+    write_ppm updatres
+
+commit b73285e7443391a49a4ddeb3d860837c0a11ebbe
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 13:58:05 2026 -0500
+
+    edit to free
+
+commit 85caa4b4d55c5c9baa7173254a7f157d850208ff
+Merge: fd49ff9 401d8ca
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 13:55:44 2026 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit fd49ff947e20459e7857e9681f62ba1e6090c234
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 13:55:37 2026 -0500
+
+    free image
+
+commit 401d8ca5e8e42f8513055e976cc815032c245276
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 3 13:54:57 2026 -0500
+
+    Made one small edit to make_image
+
+commit 536f209b9a165af77e22548c3b949a060603da1c
+Merge: 40dac4c 1e93980
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 3 13:53:15 2026 -0500
+
+    We are working at the same time, so we can merge to see each others changes
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 40dac4c1b85ac15f19405ed3563a6047c385c105
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 3 13:53:05 2026 -0500
+
+    This is so I can accept Nathan's edits
+
+commit 1e93980e42a405be53a81fc9b762f18b53720333
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 13:50:35 2026 -0500
+
+    new edit to free_imafge
+
+commit cb39f62e47b1d2e673162e2ffab4f4cc3e0c9b43
+Merge: 98f22d1 4c0e2b4
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 13:43:12 2026 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 98f22d1cba62bdfa51ea1032df7ad9428f374ec7
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 13:42:57 2026 -0500
+
+    updates to free image
+
+commit 4c0e2b4e7e708a9139624be96e433cd6cfcacdba
+Merge: 9c7708e 57084a2
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 3 13:40:16 2026 -0500
+
+    We are working on the project at the same time
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 9c7708e7e2388b1a30ece38325b348359028a3d5
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 3 13:39:59 2026 -0500
+
+    Added comments to make_image
+
+commit 57084a2b4784db3258d0c33a44467842f6ce67aa
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 13:36:43 2026 -0500
+
+    edit to free
+
+commit 8cee54ada850018d79b88cf3c07e39040aa31d7a
+Merge: 5025dfd 65f2f92
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 13:36:18 2026 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit 5025dfdbf6e05b0eb7f6962bfb18a0e73c518045
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Tue Mar 3 13:35:57 2026 -0500
+
+    my updates to free
+
+commit 65f2f92d2b19ec6118985f16c39e1917458f584f
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Tue Mar 3 13:35:22 2026 -0500
+
+    I completed the make_image function
+
+commit a53f24fe3c2465b5163293ba2ea662207809f4c8
+Merge: 7a79056 cebd861
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Mon Mar 2 14:47:04 2026 -0500
+
+    We both worked on this segment during class
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit cebd861854b0648da6a1788253c11235d1b0f580
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Mon Mar 2 14:46:40 2026 -0500
+
+    edit on free_image
+
+commit 7a7905688353b67f4f1fd718b649df14621084f2
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Mon Mar 2 14:46:34 2026 -0500
+
+    First progress on the make_image function
+
+commit c6c04b0812619dbaa971117b8a7add057932b1a3
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Mon Mar 2 14:24:05 2026 -0500
+
+    Finish development plan
+
+commit f34575a68f15da9451d42baad0d88b1805e5ef22
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Mon Mar 2 14:10:51 2026 -0500
+
+    README
+
+commit 424a0eb8fe6f3db2839bdd7337900a0ebb65cb15
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Feb 27 14:38:45 2026 -0500
+
+    Obtained starter code from the CS 220 repo
+
+commit 95cb64b92a611789f47ec654749c69dd198388f2
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Feb 27 14:31:51 2026 -0500
+
+    removed repo2
+
+commit 5a0c1201f780d536f58bbc97d6d85f4fb4aee8ae
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Feb 27 14:31:23 2026 -0500
+
+    repo2 test
+
+commit ac14a9f33c7d47ffe8891def5f840b8022ea5a03
+Merge: d1fa0a6 edb5a36
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Feb 27 14:30:48 2026 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit edb5a36ffb550c909fa32c04ce9dfeb6383317bd
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Feb 27 14:29:51 2026 -0500
+
+    deleted repo.txt
+
+commit d1fa0a6fff4ef30db06a748da7d3bad3d6931ef8
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Feb 27 14:28:45 2026 -0500
+
+    Deleted test
+
+commit e654a66ed42060661c0b67ae085477fbe56013c4
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Feb 27 14:25:37 2026 -0500
+
+    test
+
+commit 6b2246853cc99d1161558af5d4912bbdeffd6a07
+Merge: 43d14e5 e6a0551
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Feb 27 14:23:16 2026 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2026-spring-midterm-nlin18-syu99
+
+commit e6a05516830f797d9f68f034b7d5a9742796291b
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Feb 27 14:19:05 2026 -0500
+
+    Deleted a file
+
+commit 43d14e511bca5761712a2b4eb2598bf5cff535df
+Author: Nathan Lin <nathanlin1415@gmail.com>
+Date:   Fri Feb 27 14:16:40 2026 -0500
+
+    edit to hellonathan
+
+commit 80390905dce8534552bb5ccead8544872ade3b42
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Feb 27 14:15:54 2026 -0500
+
+    Another test
+
+commit df044b5cc910f15032c9f337a978b844c0ee41a7
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Feb 27 14:02:22 2026 -0500
+
+    Test folder that was created
+
+commit 50eae7b5b883f71b77cd7383da3de12078dfafd0
+Author: Simon Yu <syu123yu@gmail.com>
+Date:   Fri Feb 27 14:01:03 2026 -0500
+
+    Test file just to set up the Git page with something
